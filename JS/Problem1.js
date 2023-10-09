@@ -12,4 +12,4 @@ function reverseWords(sentence) {
 
 let inputSentence = "This is a sunny day";
 let reversedSentence = reverseWords(inputSentence);
-console.log(reversedSentence);
+console.log(inputSentence + ' > ' + reversedSentence);
